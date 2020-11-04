@@ -1,4 +1,4 @@
-public class main {
+public class Main {
     public static void main(String[] args) {
         boolean registered = true;
         int ticketcost = 1885;
